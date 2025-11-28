@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 环境变量和配置
+.env
+config.py
+
+# 临时文件和数据
+temp/
+uploads/
+output/
+tasks_db.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 前端
+frontend-demo/transtube-main/node_modules/
+frontend-demo/transtube-main/dist/
+frontend-demo/transtube-main/.env.local
+frontend-demo/transtube-main/.env.development.local
+frontend-demo/transtube-main/.env.test.local
+frontend-demo/transtube-main/.env.production.local
